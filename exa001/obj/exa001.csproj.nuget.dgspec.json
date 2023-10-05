@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DimoN\\Desktop\\examples\\exa001\\exa001.csproj": {}
+    "C:\\Users\\DimoN\\Desktop\\C# учеба\\examples\\exa001\\exa001.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DimoN\\Desktop\\examples\\exa001\\exa001.csproj": {
+    "C:\\Users\\DimoN\\Desktop\\C# учеба\\examples\\exa001\\exa001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DimoN\\Desktop\\examples\\exa001\\exa001.csproj",
+        "projectUniqueName": "C:\\Users\\DimoN\\Desktop\\C# учеба\\examples\\exa001\\exa001.csproj",
         "projectName": "exa001",
-        "projectPath": "C:\\Users\\DimoN\\Desktop\\examples\\exa001\\exa001.csproj",
+        "projectPath": "C:\\Users\\DimoN\\Desktop\\C# учеба\\examples\\exa001\\exa001.csproj",
         "packagesPath": "C:\\Users\\DimoN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DimoN\\Desktop\\examples\\exa001\\obj\\",
+        "outputPath": "C:\\Users\\DimoN\\Desktop\\C# учеба\\examples\\exa001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DimoN\\AppData\\Roaming\\NuGet\\NuGet.Config"
