@@ -1,0 +1,15 @@
+C:\Users\DimoN\Desktop\examples\exa001\bin\Debug\net6.0\exa001.exe
+C:\Users\DimoN\Desktop\examples\exa001\bin\Debug\net6.0\exa001.deps.json
+C:\Users\DimoN\Desktop\examples\exa001\bin\Debug\net6.0\exa001.runtimeconfig.json
+C:\Users\DimoN\Desktop\examples\exa001\bin\Debug\net6.0\exa001.dll
+C:\Users\DimoN\Desktop\examples\exa001\bin\Debug\net6.0\exa001.pdb
+C:\Users\DimoN\Desktop\examples\exa001\obj\Debug\net6.0\exa001.csproj.AssemblyReference.cache
+C:\Users\DimoN\Desktop\examples\exa001\obj\Debug\net6.0\exa001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DimoN\Desktop\examples\exa001\obj\Debug\net6.0\exa001.AssemblyInfoInputs.cache
+C:\Users\DimoN\Desktop\examples\exa001\obj\Debug\net6.0\exa001.AssemblyInfo.cs
+C:\Users\DimoN\Desktop\examples\exa001\obj\Debug\net6.0\exa001.csproj.CoreCompileInputs.cache
+C:\Users\DimoN\Desktop\examples\exa001\obj\Debug\net6.0\exa001.dll
+C:\Users\DimoN\Desktop\examples\exa001\obj\Debug\net6.0\refint\exa001.dll
+C:\Users\DimoN\Desktop\examples\exa001\obj\Debug\net6.0\exa001.pdb
+C:\Users\DimoN\Desktop\examples\exa001\obj\Debug\net6.0\exa001.genruntimeconfig.cache
+C:\Users\DimoN\Desktop\examples\exa001\obj\Debug\net6.0\ref\exa001.dll
